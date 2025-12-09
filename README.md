@@ -1,9 +1,15 @@
 # 📊 Customer Churn Analysis Dashboard
+A data driven analytics project using Excel and Tableau to analyze customer churn, segment behavior, and key drivers of customer retention.
+
+---
+
 ## 📘 Project Overview
 
 Customer churn is a major challenge for subscription businesses. This project explores who is leaving and why by analyzing tenure, plan types, customer categories and business stages. The goal is to understand the factors driving churn and highlight where retention efforts can have the most impact.
 
 Excel was used for data preparation, and Tableau was used to build an interactive dashboard that turns raw data into clear insights for better decision making.
+
+---
 
 ## 🔍 Key Insights
 
@@ -31,6 +37,8 @@ Startups show the strongest retention at 5.61%.
 - 📈 Business Stage:
 Stage 1 (emerging) businesses churn at 48.27%, higher than Stage 0 (established).
 
+---
+
 ### 📉 Visualizations Included
 
 - Tenure-wise Active vs Inactive Line Chart
@@ -45,21 +53,29 @@ Stage 1 (emerging) businesses churn at 48.27%, higher than Stage 0 (established)
 
 *These visuals make it easy to spot where churn is concentrated and what patterns matter most.*
 
+---
+
 ## 🖼 Dashboard Preview
 
 Customer Churn Dashboard
 (Insert screenshot here)
+
+---
 
 ## 📂 About the Dataset
 
 The dataset contains customer details such as tenure, plan type, customer category, business stage and churn status. These fields help identify behavior patterns and highlight segments most at risk.
 Data preparation was done in Excel before building the Tableau dashboard.
 
+---
+
 ## 🧰 Tools Used
 
 - Excel: data cleaning and segmentation
 
 - Tableau: dashboard design and visual analysis
+
+---
 
 ## 💼 Business Value
 
