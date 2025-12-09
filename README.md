@@ -61,7 +61,6 @@ Excel was used for data preparation, and Tableau was used to build an interactiv
 
 ## 🖼 Dashboard Preview
 
-Customer Churn Dashboard
 ![image alt](https://github.com/amlandas-in/churnscope-customer-retention-analysis/blob/3ebd9fba428b4db3e2d2c7134f8d479ebb78d986/assets/Prolink_Dashboard_preview.png)
 
 ---
