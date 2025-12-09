@@ -23,14 +23,18 @@ Built using Excel for data preparation and Tableau for visualization, the dashbo
 
 ### 📊 Segment Wise Insights
 
-- ⏳ Tenure: 
+- ⏳ Tenure:
+  
 New customers with 1–3 months tenure show the highest churn (60–70%), highlighting early lifecycle risk.
 
-- 🗓 Plan Type: 
+- 🗓 Plan Type:
+  
 The Month to Month plan has the highest churn at 54.44%, while the Annual plan shows stronger retention with only 25.29% churn.
 
-- 👥 Customer Type: 
+- 👥 Customer Type:
+   
 Influencers experience the highest churn (77.92%), whereas Startups are the most loyal segment with a churn rate of just 5.61%.
 
-- 📈 Business Stage: 
+- 📈 Business Stage:
+   
 Emerging businesses (Stage 1) face higher churn (48.27%) compared to established businesses (Stage 0).
