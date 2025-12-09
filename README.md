@@ -31,7 +31,7 @@ Startups show the strongest retention at 5.61%.
 - 📈 Business Stage:
 Stage 1 (emerging) businesses churn at 48.27%, higher than Stage 0 (established).
 
-- 📉 Visualizations Included
+### 📉 Visualizations Included
 
 - Tenure-wise Active vs Inactive Line Chart
 
@@ -43,7 +43,7 @@ Stage 1 (emerging) businesses churn at 48.27%, higher than Stage 0 (established)
 
 - Stage-wise Churn Rate
 
-#These visuals make it easy to spot where churn is concentrated and what patterns matter most.#
+*These visuals make it easy to spot where churn is concentrated and what patterns matter most.*
 
 ## 🖼 Dashboard Preview
 
