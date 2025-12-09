@@ -25,21 +25,21 @@ Excel was used for data preparation, and Tableau was used to build an interactiv
 
 - ⏳ Tenure:
   
-Customers in their first one to three months churn the most, with rates between 60% and 70%.
+  Customers in their first one to three months churn the most, with rates between 60% and 70%.
 
 - 🗓 Plan Type:
   
-Month to Month customers show the highest churn at 54.44%,
-while Annual plan customers churn the least at 25.29%.
+  Month to Month customers show the highest churn at 54.44%,
+  while Annual plan customers churn the least at 25.29%.
 
 - 👥 Customer Type:
   
-Influencers have the highest churn at 77.92%.
-Startups show the strongest retention at 5.61%.
+  Influencers have the highest churn at 77.92%.
+  Startups show the strongest retention at 5.61%.
 
 - 📈 Business Stage:
   
-Stage 1 (emerging) businesses churn at 48.27%, higher than Stage 0 (established).
+  Stage 1 (emerging) businesses churn at 48.27%, higher than Stage 0 (established).
 
 ---
 
